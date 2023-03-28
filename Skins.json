@@ -3947,6 +3947,16 @@
         801955689
       ]
     },
+        {
+      "Item Shortname": "water.purifier",
+      "Permission": "",
+      "Skins": [
+        0,
+        	786826476,
+          886677071,
+          1796826334
+      ]
+    },
     {
       "Item Shortname": "pants.shorts",
       "Permission": "",
