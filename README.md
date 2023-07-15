@@ -25,6 +25,12 @@ warning: the file a days skin is for test purpose and should not be used for hac
 -
 [rustlabs]<https://rustlabs.com/skins>
 -
+### links to keep up to date
+- 
+### vp discord :
+https://discord.com/invite/FTxCUyvK6y
+### vp tuto skinbox :
+https://www.youtube.com/watch?v=QwYmgWz3QsE
 
 Please make sure to update tests as appropriate.
 
